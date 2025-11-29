@@ -9,7 +9,7 @@ static const char *fonts[]          = { "InconsolataNerdFontMono:size=17" };
 static const char dmenufont[]       = "InconsolataNerdFontMono:size=17";
 
 
-#include "/home/kiwi/.cache/wal/colors-wal-dwm.h"
+#include "/home/zen/.cache/wal/colors-wal-dwm.h"
 
 /* tagging */
 static const char *tags[] = { "1", "2", "3", "4", "5", "6", "7", "8", "9" };
