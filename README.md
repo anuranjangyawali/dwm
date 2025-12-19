@@ -11,8 +11,9 @@
 ```
 git clone https://github.com/anuranjangyawali/dwm
 cd dwm
-make
 make install
 ```
+# Dependency
+I use pywal for colorscheme generation. Make sure you create a colorscheme and include your colors-wal-dwm.h in config.h before installing it. ;)
 
 
