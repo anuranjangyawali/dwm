@@ -1,7 +1,7 @@
 /* See LICENSE file for copyright and license details. */
 #include "selfrestart.c" 
 /* appearance */
-static const unsigned int borderpx  = 1;        /* border pixel of windows */
+static const unsigned int borderpx  = 2;        /* border pixel of windows */
 static const unsigned int gappx     = 5;        /* gaps between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int swallowfloating    = 0;        /* 1 means swallow floating windows by default */
@@ -11,7 +11,7 @@ static const char *fonts[]          = { "InconsolataNerdFontMono:size=17" };
 static const char dmenufont[]       = "InconsolataNerdFontMono:size=17";
 
 
-#include "/home/kiwi/.cache/wal/colors-wal-dwm.h"
+#include "/home/zen/.cache/wal/colors-wal-dwm.h"
 
 /* tagging */
 static const char *tags[] = { "1", "2", "3", "4", "5", "6", "7", "8", "9" };
