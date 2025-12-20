@@ -8,7 +8,7 @@
 * [swallow](https://dwm.suckless.org/patches/swallow/): gui applications take the place of terminals they were invoked from
 
 # Installation instructions
-```
+```shell
 git clone https://github.com/anuranjangyawali/dwm
 cd dwm
 make install
