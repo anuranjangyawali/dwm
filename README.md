@@ -6,6 +6,7 @@
 * [selfrestart](https://dwm.suckless.org/patches/selfrestart/): removes the need of a unecessary dwm loop script to restart dwm
 * [statuscmd](https://dwm.suckless.org/patches/statuscmd/): needed for a clickable dwmblocks or status monitor
 * [swallow](https://dwm.suckless.org/patches/swallow/): gui applications take the place of terminals they were invoked from
+* [pertag](https://dwm.suckless.org/patches/pertag/): for a layout per tag
 
 # Installation instructions
 ```
