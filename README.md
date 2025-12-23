@@ -9,11 +9,14 @@
 * [pertag](https://dwm.suckless.org/patches/pertag/): for a layout per tag
 
 # Installation instructions
-```
+```shell
 git clone https://github.com/anuranjangyawali/dwm
 cd dwm
 make
 make install
 ```
+
+# Dependency
+I use pywal for colorscheme generation. Make sure you generate a colorscheme and include your colors-wal-dwm.h path in config.h before installing.
 
 
